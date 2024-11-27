@@ -1,0 +1,9 @@
+File Open Modes:
+'r': Read (default mode).
+'w': Write (creates a new file or truncates an existing file).
+'a': Append (adds to the end of the file).
+'b': Binary (for binary files).
+'x': Exclusive creation (fails if the file exists).
+'r+': Read and write.
+'w+': Write and read.
+'a+': Append and read.
